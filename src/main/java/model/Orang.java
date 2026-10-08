@@ -4,8 +4,8 @@
  */
 package model;
 
-public class Orang {
-
+public abstract class Orang implements Identifiable {
+    
     private String id;
     private String nama;
     private String noHp;
@@ -40,9 +40,5 @@ public class Orang {
         this.noHp = noHp;
     }
 
-    public String getInfo() {
-        return "ID             : " + id
-                + "\nNama           : " + nama
-                + "\nNo. HP         : " + noHp;
-    }
+    public abstract String getInfo();
 }

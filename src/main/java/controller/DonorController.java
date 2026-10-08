@@ -43,9 +43,22 @@ public class DonorController {
         daftarDonor.add(donor);
     }
 
+    // Overloading 1: mencari donor berdasarkan ID
     public Donor cariDonor(String idDonor) {
         for (Donor donor : daftarDonor) {
             if (donor.getIdDonor().equalsIgnoreCase(idDonor)) {
+                return donor;
+            }
+        }
+
+        return null;
+    }
+
+    // Overloading 2: mencari donor berdasarkan ID dan tanggal
+    public Donor cariDonor(String idDonor, String tanggalDonor) {
+        for (Donor donor : daftarDonor) {
+            if (donor.getIdDonor().equalsIgnoreCase(idDonor)
+                    && donor.getTanggalDonor().equalsIgnoreCase(tanggalDonor)) {
                 return donor;
             }
         }
