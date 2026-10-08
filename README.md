@@ -82,7 +82,7 @@ Menu utama merupakan tampilan awal program yang menyediakan pilihan untuk mengel
 
 ## 2. Menampilkan Data Pendonor
 
-<img width="428" height="218" alt="image" src="https://github.com/user-attachments/assets/1d5d20f4-77bd-4f9b-8c1c-d3954903579a" />
+<img width="420" height="143" alt="AdobeExpressPhotos_df1220f1044841549b80adf3e8018c11_CopyEdited" src="https://github.com/user-attachments/assets/edd75006-b4bf-4101-9b94-63393c158ea1" />
 
 **Gambar 2. Menampilkan Data Pendonor**
 
@@ -94,7 +94,7 @@ Data pendonor terdiri dari ID, nama, nomor HP, dan golongan darah.
 
 ## 3. Menampilkan Data Petugas
 
-<img width="415" height="222" alt="image" src="https://github.com/user-attachments/assets/4b59952b-803d-4c68-a2f1-39775e1c5cef" />
+<img width="408" height="144" alt="AdobeExpressPhotos_a391dc3608ee4d5197af4d64e6bd0175_CopyEdited" src="https://github.com/user-attachments/assets/ff748eac-7512-4b6b-9df1-1a97d03e2393" />
 
 **Gambar 3. Menampilkan Data Petugas**
 
@@ -106,7 +106,7 @@ Data petugas terdiri dari ID, nama, nomor HP, dan jabatan.
 
 ## 4. Menampilkan Data Donor
 
-<img width="407" height="208" alt="image" src="https://github.com/user-attachments/assets/48c2610a-567e-449b-bd9f-5ba675593d17" />
+<img width="413" height="168" alt="AdobeExpressPhotos_a9db24723bb24828b7e18e3c12dc2bc4_CopyEdited" src="https://github.com/user-attachments/assets/654351b7-1010-4289-911b-c21a1f9a311a" />
 
 **Gambar 4. Menampilkan Data Donor**
 
